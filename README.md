@@ -1,4 +1,4 @@
-# ImageEditor-Website
+# Fusion-FX
 
 ## Table of Contents
 
